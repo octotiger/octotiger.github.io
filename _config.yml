@@ -1,7 +1,7 @@
 # Setup
 title:               'Octo-Tiger'
 tagline:             'an astrophysics program simulating the evolution of star systems'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'Astrophysics program simulating the evolution of star systems based on the fast multipole method on adaptive Octrees'
 url:                 http://octotiger.stellar-group.org
 baseurl:             ''
 paginate:            5
