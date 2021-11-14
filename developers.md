@@ -3,14 +3,14 @@ layout: page
 title: Developers
 ---
 
-# Current
+## Current
 
 * Dominic Marcello
 * Gregor Daiss
 * Patrick Diehl
 * Sagiv Schiber
 
-# Former
+## Former
 
 * Thomas Heller
 * Parsa Amini
