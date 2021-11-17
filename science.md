@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Science
+title: Applications
 ---
 
