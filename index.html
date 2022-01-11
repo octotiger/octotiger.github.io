@@ -12,6 +12,13 @@ Astrophysics program simulating the evolution of star systems based on the fast 
 
 <b> Multi-physics </b>   <br>
 
-<b> Applications </b>  <br>
+<b> Applications </b>  <br> Octo-Tiger is particularly suited to modelling interacting binary star systems. Its self consistent field (SCF) code enables the production of initial conditions for
+ binaries with barotropic equations of state. The user may set the masses of the components, their Roche lobe filling factors, their separation, and their structural equations of state (which may
+ be polytropic, bi-polytropic, or white dwarf). It is possible to produce detached, semi-detached, and contact binaries. These options allows Octo-Tiger to produce approximate initial conditions 
+ many binary systems including double white dwarves, main sequence binaries, as well as contact binaries such as V1309 Sco. With initial conditions from the SCF, Octo-Tiger's hydro and gravity modules are 
+ used to evolve the system in time. The system is placed in a mesh corotating with the initial orbital frequency of the binary, reducing numerical diffusion. The gravity solver is a fast multipole method (FMM)
+ solver which conserves both linear and angular momentum to machine precision, and it is combined with the hydro module in a way that conserves total energy (thermal + kinetic + potential). There are
+ on the fly analysis tools which compute quantities such as the masses of each component, their spins and their energies, as well as quantities related to the binary as a whole such as binary separation orbital
+ frequency.
 
 <b> Parallelism </b> Octotiger used the asynchronous many-task system HPX to schedule lightweight tasks. HPX is the C++ standard library for parallelism and concurrency. The compute kernels are written in Kokkos to provide support for NVIDIA and AMD GPUs.  
