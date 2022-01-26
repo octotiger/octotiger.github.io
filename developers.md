@@ -8,7 +8,7 @@ title: Developers
 * Dominic Marcello
 * Gregor Daiss
 * Patrick Diehl
-* Sagiv Schiber
+* Sagiv Shiber
 
 ## Former
 
