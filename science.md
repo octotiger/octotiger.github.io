@@ -3,7 +3,8 @@ layout: page
 title: Applications
 ---
 
-1. Simulating 3D Merger Events to 1D Stellar Evolution
+
+## Simulating 3D Merger Events to 1D Stellar Evolution
 
 R Coronae Borealis (RCB) stars are rare hydrogen-deficient carbon-rich variable supergiants thought to be the result of dynamically unstable white dwarf (WD) mergers. To model RCB stars through all the relevant timescales, a merger simulation of mass ratio 0.6 carried out by Octo-Tiger was mapped into MESA (Modules for Experiments in Stellar Astrophysics), a 1D stellar evolution code. Octo-Tiger was initialized with a 0.5 solar mass carbon-oxygen WD and a 0.3 solar mass helium WD in a binary with an orbital period of 150 seconds. A combined equation of state, which takes into account pressure from degenerate electrons at zero temperature together with thermal pressure of an ideal gas, was used. Seven levels of refinement based on density criterion in a grid containing initially 24,000 subgrids were simulated. The dynamically unstable merger event initiated after about an hour. Due to the mass trnasfer a hot shell with a peak temperature of about 285 MK was formed. Such a hot shell above the carbon-oxygen core, in which helium can burn, is important since the surface abundances of RCB stars are consistent with partial helium burning. Many orbits after the merger, the relaxed post-merger object was spherically averaged to be mapped into MESA for further evolution. The advantage of evolving the post merger in a 1D stellar evolution code is that both the mixing of the elements and the nucleosynthesis, as well as other aspects like mass loss and rotation are simulated simultaneously. The obtained models match observations or previous studies in most surface abundances, isotopic ratios, early evolution, and lifetimes. 
 
@@ -12,5 +13,9 @@ R Coronae Borealis (RCB) stars are rare hydrogen-deficient carbon-rich variable 
 
 [Munson et. al 2021; R Coronae Borealis Star Evolution: Simulating 3D Merger Events to 1D Stellar Evolution Including Large-scale Nucleosynthesis](https://ui.adsabs.harvard.edu/abs/2021ApJ...911..103M/abstract)
 
-2. Simulating a Red Super Giant Star Merging with a Main-Sequence Star
-3. Reproducing polygonal resonances at high mass transfer rates
+
+
+## Simulating a Red Super Giant Star Merging with a Main-Sequence Star
+
+
+## Reproducing polygonal resonances at high mass transfer rates
