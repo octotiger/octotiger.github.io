@@ -12,7 +12,11 @@ Astrophysics program simulating the evolution of star systems based on the fast 
 
 <b> Multi-physics </b> Octo-Tiger uses a fast-multipole method (FMM) for solving gravity. The implemented FMM globally observes both linear and angular momenta up to machine precision. Coupling the FMM with the hydro solver allows global conversation of energy up to machine precision. For the hydro equation, a finite volume method using adaptive mesh refinement (AMR) is used. More <a href="{{ site.url }}/about">details</a>. <br>
 
-<b> Applications </b> More <a href="{{ site.url }}/science/"> details</a>. <br> 
+<b> Applications </b> Octo-Tiger is particularly suited for the study of mass transfering binary stars. Its self consistent field solver allows for the 
+creation of a variety of initial conditions including semi-detached and contact binaries, double white dwarf binaries, and binaries with bipolytropic components. Octo-Tiger employs
+ a rotating grid that rotates with the initial orbital period of the binary. Octo-Tiger also has on-the-fly analysis routines informing the user of various paramters
+of the binary (e.g. orbital period, separation, angular momentum in each component) as the simulation progresses.
+More <a href="{{ site.url }}/science/"> details</a>. <br> 
 
 
 
