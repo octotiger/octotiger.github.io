@@ -14,6 +14,9 @@ title: Papers
 
 ## Computer Science
 
+* Daiß, Gregor, et al. "From Merging Frameworks to Merging Stars: Experiences using HPX, Kokkos and SIMD Types." 2022 IEEE/ACM 7th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2). IEEE, 2022. [Link](https://ieeexplore.ieee.org/document/10029450), [Pre-Print](https://arxiv.org/abs/2210.06439)
+* Daiß, Gregor, et al. "Stellar Mergers with HPX-Kokkos and SYCL: Methods of using an Asynchronous Many-Task Runtime System with SYCL." IWOCL & SYCLcon 2023 (2023): 3585345. [Link](https://dl.acm.org/doi/10.1145/3585341.3585354), [Pre-print](https://arxiv.org/abs/2303.08058)
+* Daiß, Gregor, et al. "From Task-Based GPU Work Aggregation to Stellar Mergers: Turning Fine-Grained CPU Tasks into Portable GPU Kernels." 2022 IEEE/ACM International Workshop on Performance, Portability and Productivity in HPC (P3HPC). IEEE, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/10024622), [Pre-print](https://arxiv.org/abs/2210.06438)
 * Diehl, Patrick, et al. "Performance Measurements Within Asynchronous Task-Based Runtime Systems: A Double White Dwarf Merger as an Application." Computing in Science & Engineering 23.3 (2021): 73-81. [Link](https://ieeexplore.ieee.org/abstract/document/9405442), [Pre-print](https://arxiv.org/abs/2102.00223)
 * Thomas Heller, et al. “Harnessing Billions of Tasks for a Scalable Portable Hydrodynamic Simulation of the Merger of Two Stars.” The International Journal of High Performance Computing Applications, Feb. 2019 [Link](https://journals.sagepub.com/doi/10.1177/1094342018819744)
 * David Pfander, et al. “Accelerating Octo-Tiger: Stellar Mergers on Intel Knights Landing with HPX”, DHPCC++ Conference 2018 hosted by IWOCL, St Catherine’s College, Oxford, May 14, 2018 [Link](https://dl.acm.org/citation.cfm?doid=3204919.3204938)
