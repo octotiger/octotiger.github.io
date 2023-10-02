@@ -11,6 +11,7 @@ title: Papers
 *  Dominic C. Marcello, "A Very Fast and Angular Momentum Conserving Tree Code", The Astronomical Journal, vol. 154 pg. 92, 2017
 *  Dominic C. Marcello, Kundan Kadam, Geoffrey C. Clayton, Juhan Frank, Harmut Kaiser, Patrick M. Motl, "Introducing Octo-tiger/HPX: Simulating Interacting Binaries with Adaptive Mesh Refinement and the Fast Multipole Method", Proceedings of Accretion Processes in Cosmic Sources, 2016
 *  Edward J. Montiel, Geoffrey C. Clayton, Dominic C. Marcello, Felix J. Lockman, "What Is the Shell Around R Coronae Borealis?", The Astronomical Journal, vol. 150, id. 14, 2015
+*  Munson, Bradley, et al. "R Coronae Borealis Star evolution: simulating 3D merger events to 1D stellar evolution including large-scale nucleosynthesis." The Astrophysical Journal 911.2 (2021): 103, [Link](https://iopscience.iop.org/article/10.3847/1538-4357/abeb6c/meta)
 
 ## Computer Science
 
