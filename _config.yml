@@ -2,7 +2,7 @@
 title:               'Octo-Tiger'
 tagline:             'an astrophysics program simulating the evolution of star systems'
 description:         'Astrophysics program simulating the evolution of star systems based on the fast multipole method on adaptive Octrees'
-url:                 http://octotiger.stellar-group.org
+url:                 https://octotiger.stellar-group.org
 baseurl:             ''
 paginate:            5
 permalink:           pretty
